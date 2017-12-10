@@ -11,7 +11,7 @@
     "name": "Tales Moreira",
     "email": "tales.info@gmail.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.26.0",
